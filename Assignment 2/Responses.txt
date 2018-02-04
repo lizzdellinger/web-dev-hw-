@@ -1,0 +1,5 @@
+1) One way data can travel over the internet is through wires, either fiberoptic using light or copper using electricity. Fiberoptic is more expensive and fragile, so copper ones are usually more common. 
+2) An IP address is basically the way that pieces of information are labelled over the internet. They are just like actual mailing addresses and each device that connects to the internet has the one they are assigned, as well as the one it is travelling to. The DNS is the Domain Name System, which gives names to websites so your computer can then find the corresponding IP address. 
+3) “Cookies” are the data that follow your name wherever you login. The data sent with cookies are the way that webpages remember who you are. 
+4) URL stands for Uniform Resource Locator. The three main parts are the protocol, domain name, and path. 
+
