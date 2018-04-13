@@ -1,4 +1,30 @@
+<head>
+  <style>
+    .square {
+      background-color: #00bff3;
+      height: 700px;
+      width: 700px;
+      position: absolute;
+    }
+    .rectangle {
+      background-color: #f06ea9;
+      height: 700px;
+      width: 350px;
+      position: absolute;
+      left: 400px;
+    }
+  </style>
+</head>
+
+<body>
 body {
-   background-color: #f06ea9;
-   padding: 5px;
+ font-family: Arial;
+ background-color: #3cb878;
 }
+  <div id="Topic">
+  div id="Topic" {
+    opacity: 0.5;
+}
+    <div class="square">
+  </div>
+</body>
