@@ -5,3 +5,15 @@ src: url('./fonts/Sacramento') format('.woff');
 font-weight: ;
 font-style: ;
 }
+#heading-1 {
+    font-family: 'Amatic', 'Comic Sans', Trebuchet MS, Verdana, sans-serif;
+  }
+    p.one {
+    font-size: 24pt;
+  }
+    p.two {
+    font-size: 20px;
+  }
+  #heading-1 {
+  text-align: left;
+}
