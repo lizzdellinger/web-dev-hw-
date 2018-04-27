@@ -1,0 +1,22 @@
+body {
+   font-family: Graphic;
+   background-color: #f06eaa;
+}
+.element-1 {
+   font-size: 1.5em;
+   font-family: script;
+}
+a:link {
+   color: #00bff3;
+   text-decoration: none;
+}
+
+a:visited {
+   color: #fff200;
+   text-decoration: none;
+}
+
+a:hover {
+   color: #100bff3;
+   font-style: italic;
+}
